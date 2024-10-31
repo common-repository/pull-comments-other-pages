@@ -1,0 +1,1 @@
+!function(e){"use strict";jQuery("#b2p-source-comments-page-dropdown").select2({width:"100%"})}();
